@@ -27,7 +27,7 @@ For Model Selection:
 
 
 ### Evaluation
-- Obtained test rmse of 28907.86 and r2 score of 0.59.
+- Obtained r2 score of 0.59
 - **Model Predictions vs Actual Salaries**
 
 ![pred](https://github.com/ashok49473/Developer-Salary-Prediction/blob/main/artifacts/download.png)
