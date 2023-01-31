@@ -33,7 +33,7 @@ For Model Selection:
 ![pred](https://github.com/ashok49473/Developer-Salary-Prediction/blob/main/artifacts/download.png)
 
 
-# Tools 🎯
+# Tools🎯
 - Windows 10
 - Python 3.8
 - lightGBM
@@ -44,7 +44,7 @@ For Model Selection:
 - optuna
 - streamlit
 
-# Run on local machine 💻
+# Installation💻
 1. Create a virtual environment <br>
 `python -m venv streamlit_app`<br>
 2. Activate the virtual environment<br>
