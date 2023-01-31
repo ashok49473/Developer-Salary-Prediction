@@ -5,7 +5,7 @@
 -  The use of machine learning also enables more accurate salary predictions compared to traditional methods.
 
 Here is a web application to predict the salary of a developer based on his/her experience, country and other features.<br>
-Live app: [Click here](https://share.streamlit.io/ashok49473/developer-salary-prediction/main/app.py)
+Live app: [Click here](https://ashok49473-developer-salary-prediction-app-6jbn9h.streamlit.app)
 ### Data
 - Source:[Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
 - With nearly 80,000 responses fielded from over 180 countries and dependent territories, Stack Overflow Annual Developer Survey examines all aspects of the developer experience from career satisfaction and job search to education and opinions on open source software.
