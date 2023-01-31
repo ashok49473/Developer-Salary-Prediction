@@ -23,14 +23,12 @@ For Model Selection:
 - LGBMRegressor
 
 ![models](https://github.com/ashok49473/Developer-Salary-Prediction/blob/main/artifacts/models.PNG)
-**LGBMRegressor performed better**
+- **LGBMRegressor performed better**
 
-- Hyperparameter tuning - Done✔
 
 ### Evaluation
 - Obtained test rmse of 28907.86 and r2 score of 0.59.
-
-**Model Predictions vs Actual Salaries**
+- **Model Predictions vs Actual Salaries**
 
 ![pred](https://github.com/ashok49473/Developer-Salary-Prediction/blob/main/artifacts/download.png)
 
@@ -60,4 +58,4 @@ For Model Selection:
 
 # App
 ![Home](https://github.com/ashok49473/Developer-Salary-Prediction/blob/main/artifacts/Screenshot%20(88).png)
-# Thank you ..!
+##### Ashok kumar Palivela 
